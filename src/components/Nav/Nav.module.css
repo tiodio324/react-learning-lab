@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.link,
+.active {
+  padding: 0.35rem 0.75rem;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.link {
+  color: var(--color-text);
+}
+
+.link:hover {
+  background: var(--color-bg);
+}
+
+.active {
+  background: var(--color-primary);
+  color: white;
+}

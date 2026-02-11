@@ -1,0 +1,10 @@
+.page {
+  max-width: 400px;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}

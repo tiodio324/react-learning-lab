@@ -1,0 +1,12 @@
+.page {
+  max-width: 500px;
+}
+
+.current {
+  font-weight: 500;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}

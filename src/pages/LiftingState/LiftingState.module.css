@@ -1,0 +1,16 @@
+.page {
+  max-width: 500px;
+}
+
+.block {
+  padding: 1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.block input {
+  margin-left: 0.5rem;
+  padding: 0.25rem;
+}
